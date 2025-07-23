@@ -3,8 +3,8 @@ mensajeria:
   host: localhost
   port: 5432
   user: postgres
-  password: Ec94
-  db: proyecto
+  password: root
+  db: mensajeria
 
 bodega:
   driver: postgresql+psycopg2
